@@ -1,0 +1,51 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+p a {
+    color: white;
+    font-size: 30px;
+    
+}
+ p a:hover {
+    color: #FFB400;
+   
+}
+.logo p {
+    padding-top: 17px;
+}
+.container .row .col-sm-6 a {
+    color: white;
+}
+
+.container .row .col-sm-6 a:hover{
+    color: #FFB400;
+}   
+.row .col-sm-6 a { 
+    text-decoration: none;
+}
+.container hr {
+    background-color: #0072D3;
+    border-style: none;
+    height: 5px;
+    width: 40px;
+    margin: 20px auto;
+}
+footer {
+    margin-top: 50px;
+    background-color: #343A40;
+    height:390px ;
+    width: 100%;
+}
+.quy {
+    color:#FFFFFF80;
+}
+.quy li a {
+    text-decoration: none;
+    color: #FFFFFF80;
+}
+ .quy li  {
+    list-style: none;
+}
